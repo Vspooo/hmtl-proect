@@ -25,6 +25,10 @@ body{
     font-style: normal;
 }
 
+.ws:hover{
+    color: #8d8c8c;
+}
+
 .product{
     position: absolute;
     left: 515px;
@@ -33,6 +37,10 @@ body{
     font-family: Roboto;
 
 
+}
+
+.product:hover{
+    color: #8d8c8c;
 }
 
 .vector-down{
@@ -44,9 +52,10 @@ body{
     -webkit-transform: rotate(45deg);
     position: absolute;
     z-index: 1;
-    left: 575px;
-    top: 25px;
+    left: 65px;
+    top: 5px;
 }
+
 
 .costomers{
     position: absolute;
@@ -54,6 +63,10 @@ body{
     margin-top: 15px;
 
 
+}
+
+.costomers:hover{
+    color: #8d8c8c;
 }
 
 .vector-down2{
@@ -79,6 +92,10 @@ body{
 
 }
 
+.resources:hover{
+    color: #8d8c8c;
+}
+
 .vector-down3{
     border: solid black;
     border-width: 0 3px 3px 0;
@@ -101,6 +118,11 @@ body{
 
 }
 
+.plans:hover{
+    color: #8d8c8c;
+}
+
+
 .SI{
     position: absolute;
     left: 1200px;
@@ -109,12 +131,21 @@ body{
 
 }
 
+.SI:hover{
+    color: #8d8c8c;
+}
+
 .TtS{
     position: absolute;
     left: 1300px;
     margin-top: 15px;
 
 }
+
+.TtS:hover{
+    color: #8d8c8c;
+}
+
 
 .SfF{
     position: absolute;
@@ -130,6 +161,12 @@ body{
     background-color: cadetblue;
     text-align: center;
     border-radius: 5px;
+
+}
+
+.SfF:hover{
+    color: white;
+    background-color: black;
 
 }
 
@@ -175,6 +212,11 @@ body{
 
 }
 
+.SfF2:hover{
+    background-color: black;
+    color: white;
+}
+
 .TtS2{
     width: 150px;
     height: 65px;
@@ -186,6 +228,11 @@ body{
     box-sizing: border-box;
     padding-top: 20px;
 
+}
+
+.TtS2:hover{
+    background-color: black;
+    color: white;
 }
 
 .img{
@@ -315,12 +362,22 @@ body{
 
 }
 
+.ironclad:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
 .opendoor{
     margin-left: 140px;
     width: 150px;
     height: 55px;
 
 
+}
+
+.opendoor:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 .surfline{
@@ -330,6 +387,11 @@ body{
 
 }
 
+.surfline:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
 
 .app-anie{
     margin-left: 165px;
@@ -337,6 +399,11 @@ body{
     height: 50px;
 
 
+}
+
+.app-anie:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 .column-third{
@@ -354,11 +421,21 @@ body{
 
 }
 
+.beyond:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
 .pro-guides{
     margin-left: 145px;
     width: 150px;
     height: 50px;
 
+}
+
+.pro-guides:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 .invoice2go{
@@ -369,12 +446,22 @@ body{
 
 }
 
+.invoice2go:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
 .chipper{
     margin-left: 165px;
     width: 150px;
     height: 50px;
 
 
+}
+
+.chipper:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 .Modern-Product{
@@ -455,6 +542,12 @@ body{
     box-sizing: border-box;
     text-align: center;
     padding-top: 20px;
+
+}
+
+.button-sff:hover{
+    color: white;
+    background-color: black;
 
 }
 
@@ -571,6 +664,11 @@ body{
 
 }
 
+.LearnMore1:hover{
+    color: white;
+    background-color: black;
+
+}
 
 
 .contextual-png {
@@ -639,6 +737,12 @@ body{
 
 }
 
+.LearnMore2:hover{
+    color: white;
+    background-color: black;
+
+}
+
 .Concept-Desing{
     margin-top: 150px;
     margin-left: 105px;
@@ -678,6 +782,12 @@ body{
 
 }
 
+.LearnMore3:hover{
+    color: white;
+    background-color: black;
+
+}
+
 .row{
     display: flex;
     flex-direction: row;
@@ -692,6 +802,13 @@ body{
     margin-left: 30px;
 
 }
+
+.VIDEO-QUESTION:hover{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+
 .CONCEPT-DESING{
 
     margin-top: 25px;
@@ -705,9 +822,21 @@ body{
 
 }
 
+.CONCEPT-DESING:hover{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+
 .Contecsual-Microsurveys{
     margin-top: 25px;
 
+
+}
+
+.Contecsual-Microsurveys:hover{
+    color: white;
+    background-color: black;
 
 }
 
@@ -774,6 +903,7 @@ body{
     left: 675px;
 
 }
+
 
 .Contexual-Targeting-P2{
     color: #8d8c8c;
@@ -905,6 +1035,13 @@ body{
     padding-top: 17px;
 }
 
+.SAInteg:hover{
+    color: white;
+    background-color: black;
+
+}
+
+
 .right6{
 margin-left: 250px ;
 }
@@ -950,6 +1087,12 @@ margin-left: 250px ;
     text-align: center;
     padding-top: 17px;
 
+
+}
+
+.Read-More:hover{
+    color: white;
+    background-color: black;
 
 }
 
@@ -1039,6 +1182,12 @@ margin-left: 250px ;
     text-align: center;
     box-sizing: border-box;
     padding-top: 17px;
+}
+
+.StartForFree:hover{
+    color: black;
+    background-color: white;
+
 }
 
 .BOTTOM{

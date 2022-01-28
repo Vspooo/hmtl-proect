@@ -1,0 +1,1157 @@
+body{
+    width: 1300px;
+    height: 7000px;
+
+}
+
+.bar{
+    display: flex;
+
+}
+
+.icon{
+    width: 130px;
+    height: 50px;
+    background-color: black;
+    margin-left: 25px;
+
+}
+
+.ws{
+    left: 360px;
+    position: absolute;
+    margin-top: 15px;
+    font-family: Roboto;
+    font-style: normal;
+}
+
+.product{
+    position: absolute;
+    left: 515px;
+    margin-top: 15px;
+    font-style: normal;
+    font-family: Roboto;
+
+
+}
+
+.vector-down{
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    position: absolute;
+    z-index: 1;
+    left: 575px;
+    top: 25px;
+}
+
+.costomers{
+    position: absolute;
+    left: 650px;
+    margin-top: 15px;
+
+
+}
+
+.vector-down2{
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    position: absolute;
+    z-index: 1;
+    left: 730px;
+    top: 25px;
+
+}
+
+
+.resources{
+    position: absolute;
+    left: 800px;
+    margin-top: 15px;
+
+
+}
+
+.vector-down3{
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    position: absolute;
+    z-index: 1;
+    left: 880px;
+    top: 25px;
+
+
+}
+
+.plans{
+    position: absolute;
+    left: 950px;
+    margin-top: 15px;
+
+}
+
+.SI{
+    position: absolute;
+    left: 1200px;
+    margin-top: 15px;
+
+
+}
+
+.TtS{
+    position: absolute;
+    left: 1300px;
+    margin-top: 15px;
+
+}
+
+.SfF{
+    position: absolute;
+    left: 1400px;
+    top: -15px;
+    margin-top: 15px;
+    width: 100px;
+    height: 30px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: cadetblue;
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+
+
+
+.h{
+    display: block;
+    width: 325px;
+    height: 120px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.pr{
+    width: 450px;
+    height: 120px;
+   margin-top: 0px;
+    margin-left: 100px;
+    font-size: 25px;
+    display: block;
+
+}
+
+.botton{
+    display: flex;
+    width: 1500px;
+    height: 110px;
+
+}
+
+.SfF2{
+    display: block;
+    width: 150px;
+    height: 65px;
+    background-color: gold;
+    margin-left: 100px;
+    border-radius: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 20px;
+
+
+}
+
+.TtS2{
+    width: 150px;
+    height: 65px;
+    background-color: white;
+    border: 1px solid #0B2330;
+    margin-left: 20px;
+    border-radius: 5px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 20px;
+
+}
+
+.img{
+    position: relative;
+    bottom: 300px;
+    left: 450px;
+}
+
+.TrustedBy{
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    margin-top: 140px;
+    margin-left: 570px;
+}
+
+
+.column-first{
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.squere{
+    position: absolute;
+    width: 100px;
+    margin-top: 260px;
+    margin-left: 115px;
+
+}
+
+.squere:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+
+.Code_cademy{
+    position: absolute;
+    width: 125px;
+    margin-top: 260px;
+    margin-left: 375px;
+
+}
+
+.Code_cademy:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.DropBox{
+    position: absolute;
+    width: 125px;
+    margin-top: 260px;
+    margin-left: 660px;
+
+}
+
+.DropBox:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.Loom{
+    position: absolute;
+    width: 110px;
+    margin-top: 275px;
+    margin-left: 965px;
+}
+
+.Loom:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+
+.Adobe{
+    position: absolute;
+    width: 100px;
+    margin-left: 1275px;
+    margin-top: 280px;
+
+
+}
+
+.Adobe:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.column-second{
+    display: flex;
+    flex-direction: row;
+    margin-top: 340px;
+    margin-left: 90px;
+}
+
+.shift{
+    width: 150px;
+    height: 55px;
+
+
+}
+
+.shift:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+
+.ease{
+    margin-left: 130px;
+    width: 150px;
+    height: 55px;
+
+}
+
+.ease:hover{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.ironclad{
+    margin-left: 145px;
+    width: 150px;
+    height: 55px;
+
+
+}
+
+.opendoor{
+    margin-left: 140px;
+    width: 150px;
+    height: 55px;
+
+
+}
+
+.surfline{
+    margin-left: 160px;
+    width: 150px;
+    height: 55px;
+
+}
+
+
+.app-anie{
+    margin-left: 165px;
+    width: 150px;
+    height: 50px;
+
+
+}
+
+.column-third{
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    margin-left: -50px;
+
+}
+
+.beyond{
+    margin-left: 145px;
+    width: 150px;
+    height: 50px;
+
+}
+
+.pro-guides{
+    margin-left: 145px;
+    width: 150px;
+    height: 50px;
+
+}
+
+.invoice2go{
+    margin-left: 150px;
+    width: 150px;
+    height: 50px;
+
+
+}
+
+.chipper{
+    margin-left: 165px;
+    width: 150px;
+    height: 50px;
+
+
+}
+
+.Modern-Product{
+    display: flex;
+    position: absolute;
+    background-color: #51CEBC;
+   margin-top: 15px;
+    margin-left: 125px;
+    margin-right: 85px;
+    width: 1300px;
+    height: 400px;
+
+
+
+}
+
+.bike{
+    display: flex;
+
+    width: 500px;
+    margin-top: 50px;
+
+
+}
+
+.txt{
+    align-items: center;
+    margin-left: 15px;
+    box-sizing: border-box;
+    padding-top: 130px;
+
+
+}
+
+.So-team{
+    margin-top: 50px;
+    width: 400px;
+    height: 50px;
+
+}
+
+.modern-txt{
+    width: 400px;
+    height: 50px;
+    font-size: 22px;
+
+}
+
+
+.Sping-makes{
+    margin-top: 450px;
+    margin-left: 135px;
+
+}
+
+
+.board-study {
+    position: absolute;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 335px;
+
+
+}
+
+.spmakesH{
+    width: 500px;
+    margin-left: 365px;
+    font-size: 25px;
+}
+
+.button-sff{
+    width: 150px;
+    height: 55px;
+    background-color: #F9C600;
+    margin-top: 400px;
+    margin-left: 520px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+
+.purple-block{
+    width: 1170px;
+    height: 500px;
+    background-color: #BD78F0;
+    margin-top: 50px;
+    margin-left: 105px;
+}
+
+.img-purple-block{
+    position: absolute;
+    left: 5px;
+    margin-top: 80px;
+    width: 500px;
+    height: 350px;
+
+}
+
+.txt-purple-block{
+    align-items: center;
+    box-sizing: border-box;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.purple-block {
+    display: flex;
+
+}
+
+.resume{
+    position: relative;
+    margin-top: 40px ;
+    right: 75px;
+
+}
+
+.purpleH{
+    width: 350px;
+    margin-top: 130px;
+    font-size: 28px;
+}
+
+.txt-purple{
+    margin-top: 90px;
+    font-size: 17px;
+}
+
+.solutions{
+    color:  #8d8c8c;
+     margin-top: 100px;
+    margin-left: 105px;
+}
+
+
+.H-HowSping{
+    width: 450px;
+    margin-top: 30px;
+    margin-left: 105px;
+    font-size: 30px;
+
+}
+
+.AndHelp{
+    color: #8d8c8c;
+    margin-left: 105px;
+    font-size: 20px;
+}
+
+.Contextual{
+    margin-top: 150px;
+    margin-left: 105px;
+    display: flex;
+
+}
+
+.cercle-purple1{
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-color:#BD78F0 ;
+    border-radius: 50%;
+    margin-bottom: 30px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 7px;
+}
+
+.ContextH{
+    font-size: 35px;
+    display: block;
+
+}
+
+.KeepACon{
+    width: 450px;
+    margin-top: 30px;
+    display: block;
+
+}
+
+.LearnMore1{
+    display: block;
+    margin-top: 80px;
+    width: 150px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 17px;
+
+}
+
+
+
+.contextual-png {
+    display: flex;
+
+}
+
+.left{
+    display: block;
+
+
+}
+
+.right{
+    display: flex;
+    margin-left: 250px;
+}
+
+.Video-Question{
+    margin-top: 150px;
+    margin-left: 105px;
+    display: flex;
+
+}
+
+.blue-cercle{
+    width: 30px;
+    height: 30px;
+    background-color : #51CEBC ;
+    border-radius: 50%;
+    margin-bottom: 30px;
+
+
+}
+
+.VidQueH{
+    font-size: 32px;
+
+}
+
+.VidQue-P{
+    width: 450px;
+    font-size: 17px;
+
+}
+
+
+
+.left2{
+    display: block;
+
+}
+
+.right2{
+    margin-left: 250px;
+}
+
+.LearnMore2{
+    margin-top: 80px;
+    width: 150px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 17px;
+
+}
+
+.Concept-Desing{
+    margin-top: 150px;
+    margin-left: 105px;
+    display: flex;
+
+}
+
+.cercle-orange{
+    width: 30px;
+    height: 30px;
+    background-color: #FE9F28;
+    border-radius: 50%;
+    margin-bottom: 30px;
+
+}
+
+.ConDes-H{
+    font-size: 35px;
+
+}
+
+.ConDes-P{
+    width: 550px;
+    font-size: 17px;
+
+}
+
+.LearnMore3{
+    margin-top: 80px;
+    width: 150px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 17px;
+
+
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    font-size: 17px;
+    color: #8d8c8c;
+
+
+}
+
+.VIDEO-QUESTION{
+    margin-top: 25px;
+    margin-left: 30px;
+
+}
+.CONCEPT-DESING{
+
+    margin-top: 25px;
+    margin-left: 30px;
+    height: 25px;
+    background-color: #FE9F28;
+    color: black;
+    border-radius: 3px;
+    box-sizing: border-box;
+    padding-top: 2px;
+
+}
+
+.Contecsual-Microsurveys{
+    margin-top: 25px;
+
+
+}
+
+.left3{
+    display: block;
+
+}
+
+.right3{
+   margin-left: 250px;
+
+}
+
+.Features{
+    margin-top: 75px;
+    color: #8d8c8c;
+    font-size: 17px;
+    margin-left: 105px;
+
+}
+
+.HowSprinDel-H{
+    font-size: 30px;
+    width: 630px;
+    margin-top: 50px;
+    margin-left: 150px;
+    display: block;
+
+}
+
+.left5{
+    margin-top: 125px;
+    margin-left: 145px;
+    display: block;
+}
+
+.HowSprinDelivers{
+    display: flex;
+    margin-left: 50px;
+
+}
+
+.hr{
+    width: 450px;
+    height: 2px;
+    background-color: #F9C600;
+    margin-bottom: 15px;
+
+}
+
+.Contexual-Targeting{
+    margin-top: 240px;
+    font-size: 25px;
+    position: absolute;
+    left: 675px;
+
+
+}
+
+.Contexual-Targeting-P{
+    color: #8d8c8c;
+    margin-top: 300px;
+    position: absolute;
+    left: 675px;
+
+}
+
+.Contexual-Targeting-P2{
+    color: #8d8c8c;
+    margin-top: 330px;
+    position: absolute;
+    left: 675px;
+    width: 480px;
+    height: 85px;
+
+}
+
+.LearnMore4{
+    position: relative;
+    top: 430px;
+    right: 300px;
+    font-size: 15px;
+
+}
+
+.Vector-up{
+    position: absolute;
+    top: 15px;
+    right: 0px;
+
+}
+
+.Vector-right{
+    position: relative;
+    top: 400px;
+    right: 215px;
+
+}
+
+.hr2{
+    position: relative;
+    width: 450px;
+    height: 2px;
+    background-color: #8d8c8c;
+    top: 430px;
+    right: 300px;
+
+}
+
+.Al-Analisys{
+    position: relative;
+    top: 450px;
+    right: 300px;
+}
+
+.vector-down5{
+    position: relative;
+    top: 430px;
+    left: 125px;
+
+}
+
+.hr3{
+    position: relative;
+    width: 450px;
+    height: 2px;
+    background-color: #8d8c8c;
+    top: 450px;
+    left: -300px;
+}
+
+
+.Tamplates{
+    position: relative;
+    top: 470px;
+    right: 300px;
+
+
+}
+
+.Vector-down2{
+    position: relative;
+    top: 455px;
+    left: 125px;
+
+}
+
+.hr4{
+    position: relative;
+    width: 450px;
+    height: 2px;
+    background-color: #8d8c8c;
+    top: 465px;
+    right: 300px;
+}
+
+
+.INTEGRATIONS{
+    margin-top: 75px;
+    margin-left: 75px;
+    color: #8d8c8c;
+    font-size: 15px;
+
+}
+
+.ShereData-H{
+    width: 550px;
+    margin-top: 25px;
+    margin-left: 75px;
+    font-size: 30px ;
+
+}
+
+.ConnectEvents-P{
+    width: 580px;
+    margin-top: 25px;
+    margin-left: 75px;
+    font-size: 17px;
+    color: #8d8c8c;
+}
+
+.left6{
+    display: block;
+
+}
+
+.SAInteg{
+    width: 250px;
+    height: 50px;
+    margin-top: 75px;
+    margin-left: 75px;
+    background-color: #F9C600;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 17px;
+}
+
+.right6{
+margin-left: 250px ;
+}
+
+.SHERE-DATA{
+    display: flex;
+    margin-left: 50px;
+
+}
+
+
+.case-study{
+    margin-top: 75px;
+    margin-left: 75px;
+    color: #8d8c8c;
+    font-size: 15px;
+
+}
+
+.TrustBy-H{
+    width: 550px;
+    margin-top: 25px;
+    margin-left: 75px;
+    font-size: 30px;
+
+}
+
+.SpirngHelp-P{
+    width: 350px;
+    margin-top: 25px;
+    margin-left: 75px;
+    font-size: 20px;
+
+}
+
+.Read-More{
+    width: 150px;
+    height: 50px;
+    margin-left: 75px;
+    margin-top: 50px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 17px;
+
+
+}
+
+.CASE-STUDY{
+    display: flex;
+    margin-left: 50px;
+}
+
+.left7{
+    display: block;
+
+}
+
+.right7{
+    width: 550px;
+    height: 500px;
+    margin-left: 200px;
+    background-color: #F9C600;
+    margin-top: 85px;
+}
+
+.SpringHelp-H{
+    position: relative;
+    width: 450px;
+    font-size: 25px;
+    z-index: 1;
+    bottom: 160px;
+    margin-left: 22px ;
+}
+
+.Daniel-img{
+    margin-left: 75px;
+
+}
+
+.DLayfield-P{
+    position: relative;
+     bottom: 80px;
+    left: 170px;
+}
+
+.GProduct{
+    position: relative;
+    bottom: 80px;
+    left: 170px;
+
+}
+
+
+.LauchASpring{
+    display: flex;
+    width: 1570px;
+    height: 450px;
+    background-color: #0B2330;
+    margin-top: 100px;
+
+
+}
+
+.LauchASpring-H{
+    display: flex;
+    color: white;
+    font-size: 35px;
+    flex-direction: column;
+    margin-left: 570px;
+    margin-top: 75px;
+    width: 600px;
+    height: 50px;
+}
+
+.CreatFreeAccount{
+    position: relative;
+    color: white;
+    bottom: 250px;
+    left: 550px;
+    width: 545px;
+
+}
+
+.StartForFree{
+    position: relative;
+    width: 250px;
+    height: 50px;
+    background-color: #F9C600;
+    bottom: 170px;
+    left: 650px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 17px;
+}
+
+.BOTTOM{
+    position: relative;
+    width: 1570px;
+    height: 550px;
+    background-color: #0B2330;
+    bottom: 118px;
+
+}
+
+.Spring-Logo{
+    margin-left: 75px;
+
+}
+
+.Column1{
+    position: relative;
+    color: white;
+    margin-left: 328px;
+    bottom: 65px;
+
+
+}
+
+.Product{
+    color: #F9C600;
+}
+
+.Column2{
+    position: relative;
+    color: white;
+    margin-left: 574px;
+    bottom: 340px;
+
+
+}
+
+.Customer-Storie{
+    color: #F9C600;
+}
+
+
+.Column3{
+    position: relative;
+    color: white;
+    margin-left: 790px;
+    bottom: 610px;
+
+}
+
+.Company{
+    color: #F9C600;
+}
+
+.Data-Processing{
+    width: 175px;
+
+}
+
+.Column4{
+    position: relative;
+    color: white;
+    margin-left: 1020px;
+    bottom: 830px;
+
+}
+
+
+.Resources{
+    color: #F9C600;
+
+}
+
+
+.CopyRight{
+    display: flex;
+}
+
+.left8{
+    position: relative;
+    display: block;
+    color:white;
+     bottom: 600px;
+    left: 50px;
+}
+
+.right8{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    bottom: 600px;
+    left: 750px;
+    margin-right: 50px;
+
+}
+
+.Facebook{
+    width: 28px;
+    height: 28px;
+    margin-right: 50px;
+}
+
+.In{
+    width: 28px;
+    height: 28px;
+    margin-right: 50px;
+
+}
+
+.Twitter{
+    width: 28px;
+    height: 28px;
+}
+
+
